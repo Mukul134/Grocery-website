@@ -17,15 +17,6 @@ Grocery Bee is a full-stack e-commerce web app for an online grocery store, buil
 
 <img width="1766" height="824" alt="Screenshot 2025-07-26 154449" src="https://github.com/user-attachments/assets/fadf2e01-c2e5-45bd-910a-afee6ccdd83f" />
 
-
----
-
-## 📦 Tech Stack
-- **Frontend**: React.js, Vite, TailwindCSS, Axios, React Router DOM, React Hot Toast
-- **Backend**: Node.js, Express.js, MongoDB (Mongoose), Cloudinary, Stripe, JWT, Bcrypt.js, Multer
-- **Tools**: Git, ESLint, dotenv
-
-
 ---
 
 
