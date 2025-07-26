@@ -18,7 +18,5 @@ Grocery Bee is a full-stack e-commerce web app for an online grocery store, buil
 <img width="1766" height="824" alt="Screenshot 2025-07-26 154449" src="https://github.com/user-attachments/assets/fadf2e01-c2e5-45bd-910a-afee6ccdd83f" />
 <img width="1850" height="844" alt="Screenshot 2025-07-26 175438" src="https://github.com/user-attachments/assets/9b36e690-21a6-48c1-902f-6a0f538c9299" />
 <img width="1321" height="840" alt="Screenshot 2025-07-26 175511" src="https://github.com/user-attachments/assets/1bceb915-6244-42ae-a432-a3564b0c2b24" />
-
 ---
-
 
